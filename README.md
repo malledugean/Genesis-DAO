@@ -17,16 +17,16 @@ Genesis DAO is a decentralized autonomous organization dedicated to fostering in
 ## Absolon
 -  [Absolon Token](https://github.com/malledugean/absolon_token)
 
-## Mecanismos de Financiamento
+## Funding Mechanisms
 
-Propostas de mecanismos de financiamento para a Genesis DAO utilizando o token Absolon:
+Proposed funding mechanisms for Genesis DAO using the Absolon token:
 
-1. Venda Inicial de Tokens (ICO)
+1. Initial Token Sale (ICO)
 2. Staking:
 3. Grants:
 4. Treasury Bills
 
-## Mecanismos de Votação
+## Voting Mechanisms
 -  [Snapshot](https://snapshot.org/)
 
 

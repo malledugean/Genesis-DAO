@@ -12,7 +12,7 @@ Genesis DAO is a decentralized autonomous organization dedicated to fostering in
 
 ## Links
 -  [Discord](https://discord.com/)
--  [Lenz](https://www.lens.xyz]
+-  [Lenz](https://www.lens.xyz)
 
 ## Absolon
 -  [Absolon Token](https://github.com/malledugean/absolon_token]
@@ -27,7 +27,7 @@ Propostas de mecanismos de financiamento para a Genesis DAO utilizando o token A
 4. Treasury Bills
 
 ## Mecanismos de Votação
--  [Snapshot](https://snapshot.org/)]
+-  [Snapshot](https://snapshot.org/)
 
 
 ## License
